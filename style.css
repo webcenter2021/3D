@@ -42,7 +42,7 @@ nav {
       color: #0088a9;
     }
     
-    button{
+    nav.button{
       padding: 2px 25px;
       background-color: rgba(0,136,169,1);
     }
